@@ -1,0 +1,21 @@
+{
+  "name": "inventoryapi",
+  "version": "1.0.0",
+  "description": "An inventory management app in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inventory",
+    "nodejs",
+    "assets"
+  ],
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "author": "FaultyLabs",
+  "license": "ISC"
+}
